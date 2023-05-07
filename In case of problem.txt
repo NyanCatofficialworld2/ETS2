@@ -1,0 +1,13 @@
+ENG:
+If the game does not start, check to have the minimum configuration of the game or check your storage space,
+ the necessary storage space and 17GB 
+(the game is 15.5GB but with the components adding it makes 17GB)
+
+FR:
+Ci le jeux ne demarre pas verifier a avoir la configuration minimal du jeux ou alors verifier votre espace
+ de stockage,l'espace de stokage nescecaire et de 17GO 
+(le jeux fait 15,5GO mais avec le composant rajouter ca fait 17GO)
+
+RU:
+Если игра не запускается, проверьте минимальную конфигурацию игры или проверьте объем памяти,
+ необходимый объем памяти и 17 ГБ (игра занимает 15,5 ГБ, но с добавлением компонентов получается 17 ГБ)
